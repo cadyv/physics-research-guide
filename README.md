@@ -17,18 +17,18 @@
 ## Links:
 - [NSF Research Experiences for Undergraduates in Physics (REU)](http://www.nsf.gov/crssprgm/reu/list_result.cfm?unitid=69): Application deadlines are late February through Mid March. REUs are nationally funded research opportunities. Though competitive, REUs give you the opportunity to travel and do research at many great universities across the USA. There's dozens of schools that participate in REUs, so apply to as many or as few as you want. 
 - [NSF Research Experiences for Undergraduates in Other Fields](http://www.nsf.gov/crssprgm/reu/reu_search.cfm): Application deadlines are late February through Mid March
-- DAAD Rise: Applications due mid-December. DAAD Rise is a fully funded research opportunity sponsored by many different universities in Germany. If accepted, the program will pay for travel and a stipend. Applicants must be in their sophomore or junior, or senior year to apply. 
-- SROP: Lesser known program, but well worth applying to. One application will allow you to apply for research positions at UIUC, UMD, and many other universities.
-- SR-EIP: The SR-EIP program allows you to apply for research at Stanford, Harvard, Columbia, and many other universities. The program also includes other planning and graduate school preparation.
-- Perimeter: The Perimeter Institute has a two-week theoretical physics program, and summer research program available. Both programs use a combined application.
-- UArizona Winter School: The University of Arizona offers a five day long program in January, where invited students learn about optics, photonics, and workshop with professors.
-- NIFS OSSI: Students can apply for jobs and internships with NASA through this website.
-- NASA JPL: JPL, located in Pasadena, California, provides summer and year-round internships for university students. JPL provides a stipend as well as travel compensation.
-- SPS Internships (Society of Physics Students): Application deadline: February 1
-- Summer Internships at Fermilab: Application deadlines: early January through early April
-- ORISE Undergraduate Research Opportunities
-- The NIST Summer Undergraduate Research Fellowship Program
-- High Energy Density Physics Program at Lawrence Livermore National Lab: Application deadline: mid January
-- CERN Summer Student Program in Geneva, Switzerland
-- Department of Energy's Science Undergraduate Laboratory Internships (SULI)
-- More Research Internships in Physics and other sciences at the Nucleus
+- [DAAD Rise](https://www.daad.de/rise/en/rise-germany/find-an-internship/): Applications due mid-December. DAAD Rise is a fully funded research opportunity sponsored by many different universities in Germany. If accepted, the program will pay for travel and a stipend. Applicants must be in their sophomore or junior, or senior year to apply. 
+- [SROP](http://www.btaa.org/resources-for/students/srop/campus-profiles): Lesser known program, but well worth applying to. One application will allow you to apply for research positions at UIUC, UMD, and many other universities.
+- [SR-EIP](https://www.theleadershipalliance.org/programs/summer-research): The SR-EIP program allows you to apply for research at Stanford, Harvard, Columbia, and many other universities. The program also includes other planning and graduate school preparation.
+- [Perimeter](https://www.perimeterinstitute.ca/training/undergraduate-students/undergraduate-theoretical-physics-summer-program): The Perimeter Institute has a two-week theoretical physics program, and summer research program available. Both programs use a combined application.
+- [USEQIP](https://uwaterloo.ca/institute-for-quantum-computing/programs/useqip): University of Waterloo's two-week summer program, the Undergraduate School on Experimental Quantum Information Processing
+- [UArizona Winter School](https://wp.optics.arizona.edu/winter-school-workshop/media/): The University of Arizona offers a five day long program in January, where invited students learn about optics, photonics, and workshop with professors.
+- [NIFS OSSI](https://intern.nasa.gov/ossi/web/public/main/): Students can apply for jobs and internships with NASA through this website.
+- [NASA JPL](https://www.jpl.nasa.gov/edu/intern/apply/): JPL, located in Pasadena, California, provides summer and year-round internships for university students. JPL provides a stipend as well as travel compensation.
+- [SPS Internships](http://www.spsnational.org/programs/internships): Society of Physics Students, application deadline is February 1
+- [Summer Internships at Fermilab](https://interns.fnal.gov/): Application deadlinesare early January through early April
+- [ORISE Undergraduate Research Opportunities](http://orise.orau.gov/science-education/internships-scholarships-fellowships/undergraduates.aspx/): Oak Ridge Institute for Science and Education, they offer fall and spring internships in addition to summer. 
+- [NIST SURF](https://www.nist.gov/surf): National Institute for Standards and Technology Summer Undergraduate Research Fellowship; offers options in both Boulder, CO and Gaithersburg, MA.
+- [High Energy Density Physics Program](https://www.llnl.gov/): Held at Lawrence Livermore National Lab, application deadline is mid January
+- [CERN Summer Student Program](https://careers.cern/students): Held in Geneva, Switzerland
+- [DOE SULI](http://science.energy.gov/wdts/suli/): Department of Energy's Science Undergraduate Laboratory Internships 
