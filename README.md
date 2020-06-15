@@ -18,7 +18,7 @@
 
   This is a matter of personal taste! During the academic year, doing research on campus is often the most logistically feasible option. In the summer, you can stay on campus or apply to external programs; there are upsides and downsides to each. External programs often have more structure, so they can be a good way not only to visit another campus but also to network and gain experience in a structured environment. However, most programs are between 8-12 weeks long and may not have options to continue work on the same project after the program ends. Working on campus gives an opportunity to continue research into the academic year, allowing you to work more deeply on a project than you could in one summer. 
   
-  Ultimately, you can also choose to do both! Many students apply to external programs as their first research experience, and then do research on campus later in along in undergrad. Many REU's and other programs are specifically designed for students who have not had previous research experience, so they can be a good first step into physics research. Something to keep in mind as well is that many of these programs are aimed at studetns attending smaller colleges and universities who may not have the same on-campus resources, and many can be very competitive-- so don't get discouraged if you apply but do not get in.
+  Ultimately, you can also choose to do both! Many students apply to external programs as their first research experience, and then do research on campus later in along in undergrad. Many REU's and other programs are specifically designed for students who have not had previous research experience, so they can be a good first step into physics research. Something to keep in mind as well is that many of these programs are aimed at students attending smaller colleges and universities who may not have the same on-campus resources, and many can be very competitive-- so don't get discouraged if you apply but do not get in.
   
 ## Picking a research area
 
@@ -28,6 +28,8 @@ It can be overwhelming to try and decide what kind of physics to do! Here are so
 - Do you prefer large groups/collaborations or small groups? 
 - What kind of mentorship stype do you work best with? Hands-on or hands-off? 
 - Do you work better independently or in collaboration with other students?
+
+It's important to remember that you don't have to stick with the first research area you choose, you can always change your mind later! Even if you end up disliking the field/project you first work on, it can still be a valuable experience. Maybe you learn something about your preferred mentorship style, work environment, group dynamics...even if that research area doesn't end up being your passion, you probably gained something! It's just as important to identify what things you *don't* like as it is to identify research areas you do.
   
 ## Finding a mentor
 
