@@ -12,9 +12,39 @@
   There are a variety of options, but they can be broadly lumped into a few categories:
   1) A specific program (like an REU or other funded opportunity). These are most common for summer research experiences.
   2) A fellowship or grant. Many schools have internal fellowships specifically designed for funding undergraduate research, often designated for summer.
-  3) The research group. When I've seen this option it's usually for a longer project (for instance, if you've been working in the same lab for multiple years). 
+  3) The research group. When I've seen this option it's usually for a longer project (for instance, if you've been working in the same lab for multiple years).
 
-## Links:
+- *Should I do research on campus or elsewhere?*
+
+  This is a matter of personal taste! During the academic year, doing research on campus is often the most logistically feasible option. In the summer, you can stay on campus or apply to external programs; there are upsides and downsides to each. External programs often have more structure, so they can be a good way not only to visit another campus but also to network and gain experience in a structured environment. However, most programs are between 8-12 weeks long and may not have options to continue work on the same project after the program ends. Working on campus gives an opportunity to continue research into the academic year, allowing you to work more deeply on a project than you could in one summer. 
+  
+  Ultimately, you can also choose to do both! Many students apply to external programs as their first research experience, and then do research on campus later in along in undergrad. Many REU's and other programs are specifically designed for students who have not had previous research experience, so they can be a good first step into physics research. Something to keep in mind as well is that many of these programs are aimed at studetns attending smaller colleges and universities who may not have the same on-campus resources, and many can be very competitive-- so don't get discouraged if you apply but do not get in.
+  
+## Picking a research area
+
+It can be overwhelming to try and decide what kind of physics to do! Here are some questions to keep in mind that may help you narrow down what subfields to consider, and ultimately what professors or groups to work with.
+- What do you want to get out of the research experience? Is there a type of physics you would like to learn more about? Is there a skill set you want to develop?
+- What kind of work do you want to do on the day-to-day? Hands on work? Computation/simulation? Data analysis? 
+- Do you prefer large groups/collaborations or small groups? 
+- What kind of mentorship stype do you work best with? Hands-on or hands-off? 
+- Do you work better independently or in collaboration with other students?
+  
+## Finding a mentor
+
+*Don't be afraid to contact professors!* The best way to reach out to professors is often by email. You can find the contact info for professors, as well as information about their research and current projects on department webpages. Cold emailing professors may seem intimidating, but professors usually love having undergraduate interest. Your email to a professor should include:
+   - A brief introduction about yourself (class year, major, etc)
+   - Why you're reaching out
+   - Why this professor's work interests you, or questions you have about their research
+   - If you know your research interests, you can state something specific you want to work on/learn about
+   - Ask what projects or spots may be open in their group/lab
+   - Ask if they'd be willing to meet in person
+   - Attach your CV and/or transcript
+
+If the professor doesn't respond within a few weeks, don't take it personally-- they may just be busy or the email may have slipped by them unnoticed. It's totally reasonable to send a follow-up email reiterating your interest. If they don't respond after that, move on. It's often good to have a list of a several professors you'd be interested in working with, in case one doesn't respond or doesn't have open projects/space in their group. If a professor responds but does not have a position open, it's also ok to ask if they know of other groups doing similar research they can recommend.
+
+When you meet with a professor in person, have a few questions prepared that you'd like to ask them about their research or group. It's totally fine to ask questions that may seem blunt, such as asking about the professor's mentorship style or expectations; being upfront about these topics will make your relationship with your mentors smoother in the long run. It's also a good idea to bring a notebook and take notes during the meeting so you can write down questions you think of while talking. The conversation doesn't have to feel formal. After meeting, it's a good idea to send a follow-up email to continue correspondance; one good idea is to ask for the professor to share relevant reading about their research/potential projects.
+
+## Links to research opportunities (non-exhaustive):
 - [NSF Research Experiences for Undergraduates in Physics (REU)](http://www.nsf.gov/crssprgm/reu/list_result.cfm?unitid=69): Application deadlines are late February through Mid March. REUs are nationally funded research opportunities. Though competitive, REUs give you the opportunity to travel and do research at many great universities across the USA. There's dozens of schools that participate in REUs, so apply to as many or as few as you want. 
 - [NSF Research Experiences for Undergraduates in Other Fields](http://www.nsf.gov/crssprgm/reu/reu_search.cfm): Application deadlines are late February through Mid March
 - [DAAD Rise](https://www.daad.de/rise/en/rise-germany/find-an-internship/): Applications due mid-December. DAAD Rise is a fully funded research opportunity sponsored by many different universities in Germany. If accepted, the program will pay for travel and a stipend. Applicants must be in their sophomore or junior, or senior year to apply. 
